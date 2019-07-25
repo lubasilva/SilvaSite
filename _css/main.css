@@ -4,22 +4,13 @@ body {
     color:rgba(0, 0, 0, 0. 1);
 }
 
-div#interface {
-    width: 100%;
-    background-color: #dddddd;
-    margin: -20px auto 0px auto;
-    padding: 10px;
-    box-shadow: 0px 0px 10px rgba(14, 34, 67, 0.5);
-}
-
 .menu-topo{
     margin: 0 auto;
-    width: 980px;
+    width: 100%;
     position: relative;
 }
 
-.menu-principal {
-    width: 100%;
+#menu-principal {
     background-color:rgb(102, 102, 107);
     height: 85px;
     border-bottom: 3px solid #8d9598;
@@ -55,15 +46,12 @@ div#interface {
 .search-box {
     width: 10%;
     float: left;
-    padding: 2% 0% 0% 0%;
+    padding: 20px 0% 0% 0%;
 }
 
 p {
     text-align: justify;
     text-indent: 50px;
-}
-
-div#corpo {
 }
 
 figure.tecnico img {
@@ -92,6 +80,8 @@ top:50%;
 left:50%;
 margin-top:0px;
 margin-left:-150px;
+border: 1px solid #68c2e8;
+box-shadow: 1px 1px 4px #0e1e40;
 }
 
 figure.diploma p {
@@ -102,10 +92,9 @@ figure.diploma h2, h3 {
     text-align: center;
 }
 
-footer#rodape p { 
-    position: relative;
-    text-align: center;
-    font-size: 14pt;
+#rodape {
+    bottom: 0;
+    left: 0;
 }
 
 
