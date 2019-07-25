@@ -4,7 +4,7 @@
 
 <link rel="stylesheet" href="./_css/noticias.css">
 
-    <div class="noticia col-md-12">
+    <div class="noticia">
 
         <header id="topo-noticias">
             NOTICIAS

@@ -21,7 +21,7 @@
                         </div>
                         <div class="opcoes">
                             <ul>
-                                <li><a class="btn btn-deafult" href="contatos.php"> CONTATOS</a></li>
+                                <li><a class="btn btn-deafult" href="contato.php"> CONTATO</a></li>
                                 <li><a class="btn btn-deafult" href="servicos.php"> SERVIÇOS</a></li>
                                 <li><a class="btn btn-deafult" href="noticias.php"> NOTICIAS</a></li>
                             </ul>

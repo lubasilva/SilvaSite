@@ -1,0 +1,22 @@
+.trabalhos{
+   margin-top: 20px;
+}
+
+.trabalhos h2 {
+    text-align: center;
+}
+
+.trabalhos h3 {
+    text-align: center;
+}
+
+.site {
+    border: 3px solid white;
+    box-shadow: 1px 1px 4px #0e1e40;
+}
+
+
+.programas {
+    border: 3px solid white;
+    box-shadow: 1px 1px 4px #0e1e40;
+}

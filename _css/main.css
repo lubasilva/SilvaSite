@@ -54,41 +54,54 @@ p {
     text-indent: 50px;
 }
 
-figure.tecnico img {
+div.introducao img { 
     
-    top: 40px;
-    float: left;
+    margin-top: 95px;
     border: 1px solid #68c2e8;
     box-shadow: 1px 1px 4px #0e1e40;
     bottom: 10px;
     
 }
 
-figure.tecnico h1 {
+div.introducao h1 {
     text-align: center;
     padding: 20px;
 }
 
-figure.tecnico p {
-    text-align: center;
+div.introducao p {
     font-size: 14pt;
 }
 
-figure.diploma img {
+div.quem-somos h3{
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 14pt;
+}
+
+div.quem-somos h2 {
+    text-align: right;
+}
+
+article {
+    margin-top: 180px;
+}
+
+article.diploma img {
 position: relative;
 top:50%;
 left:50%;
 margin-top:0px;
 margin-left:-150px;
+margin-bottom: 10px;
 border: 1px solid #68c2e8;
 box-shadow: 1px 1px 4px #0e1e40;
 }
 
-figure.diploma p {
+article.diploma p {
     font-size: 14pt;
 }
 
-figure.diploma h2, h3 {
+article.diploma h2, h3 {
     text-align: center;
 }
 

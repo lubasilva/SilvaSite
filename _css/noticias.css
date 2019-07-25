@@ -20,8 +20,10 @@ p {
 }
 
 article {
+    margin-top: 0px;
     margin-bottom: 60px;
 }
+
 
 article#box1 img {
     float: right;
