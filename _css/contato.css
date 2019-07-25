@@ -35,3 +35,14 @@ textarea {
     left: 80px;
     margin-top: 120px;
 }
+.localizacao {
+    margin-top: 100px;
+}
+
+.endereco h2 {
+    font-size: 20pt;
+}
+
+.endereco {
+    margin-top: 120px;
+}
